@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.for-style{
+    color: orangered;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
